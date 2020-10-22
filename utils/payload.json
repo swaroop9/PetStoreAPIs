@@ -1,0 +1,49 @@
+{
+  "createPayload" : {
+    "id": 369,
+    "username": "Poornas",
+    "firstName": "Poorna",
+    "lastName": "Yaganti",
+    "email": "Poorna@gmail.com",
+    "password": "Poorna@9",
+    "phone": "9533304445",
+    "userStatus": 0
+},
+  "updatePayload": {
+    "id": 453,
+    "username": "Swaroop",
+    "firstName": "Poorna",
+    "lastName": "Yaganti",
+    "email": "Swaroop@gmail.com",
+    "password": "Swaroop@9",
+    "phone": "9533305554",
+    "userStatus": 0
+  },
+  "listPayload":[
+  {
+    "id": 369,
+    "username": "Pooorna",
+    "firstName": "Poorna",
+    "lastName": "Yaganti",
+    "email": "Poorna@gmail.com",
+    "password": "Poorna@9",
+    "phone": "9533304445",
+    "userStatus": 0
+  },
+
+  {
+    "id": 453,
+    "username": "Swaroop",
+    "firstName": "Poorna",
+    "lastName": "Yaganti",
+    "email": "Swaroop@gmail.com",
+    "password": "Swaroop@9",
+    "phone": "9533305554",
+    "userStatus": 0
+  }
+],
+  "login": {
+    "username": "Poorna",
+    "password": "Poorna@9"
+}
+}
